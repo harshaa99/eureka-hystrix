@@ -8,6 +8,8 @@ public class HystrixProjApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HystrixProjApplication.class, args);
+		
+		
 	}
 
 }
